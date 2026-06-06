@@ -1,1 +1,49 @@
 /*  your css code here. If applicable */
+#title{
+	text-align: center;
+}
+
+#t12 {
+    text-align: center;
+}
+
+#t13 {
+    text-align: right;
+}
+
+#table-2 {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#table-2 td {
+    border: 1px solid gray;
+    height: 14px;
+}
+
+#table-3 {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#table-3 td {
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.green {
+    background-color: green;
+    height: 15px;
+}
+
+.blue {
+    background-color: blue;
+    height: 15px;
+}
+
+#t-image img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
